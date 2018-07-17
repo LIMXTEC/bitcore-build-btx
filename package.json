@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/BTXinsight/bitcore-build-btx"
+    "url": "git://github.com/LIMXTEC/bitcore-build-btx"
   },
   "keywords": [
     "bitcore"
@@ -41,9 +41,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BTXinsight/bitcore-build-btx/issues"
+    "url": "https://github.com/LIMXTEC/bitcore-build-btx/issues"
   },
-  "homepage": "https://github.com/BTXinsight/bitcore-build-btx",
+  "homepage": "https://github.com/LIMXTEC/bitcore-build-btx",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",

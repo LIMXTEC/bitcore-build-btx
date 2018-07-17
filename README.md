@@ -7,7 +7,7 @@ A helper to add tasks to gulp.
 Install with:
 
 ```sh
-git clone https://github.com/BTXinsight/bitcore-build-btx.git
+git clone https://github.com/LIMXTEC/bitcore-build-btx.git
 cd bitcore-build-btx
 npm install
 ```
